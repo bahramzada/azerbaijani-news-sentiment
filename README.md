@@ -28,7 +28,7 @@ Azerbaijani (Azərbaycan dili) is a Turkic language with unique linguistic featu
 Details about the dataset used:
 
 - **Source**: [Azerbaijani News Sentiment Dataset](https://www.kaggle.com/datasets/raullte/azerbaijani-news-sentiment-dataset)
-- **Size**: 2,364+ labeled samples
+- **Size**: 2700+ labeled samples
 - **Language**: Azerbaijani (Azərbaycan dili)
 - **Format**: UTF-8 encoded CSV with sentiment labels
 - **Classes**: Positive, Negative, Neutral
